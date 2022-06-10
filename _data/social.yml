@@ -1,7 +1,7 @@
 # This file contains meta data for various social media sites
 email:
   name: Email
-  icon: icon-mail
+  icon: icon-mail4
   prepend: 'mailto:'
 amazon:
   name: Amazon
@@ -94,7 +94,7 @@ deviantart:
 steam:
   name: Steam
   icon: icon-steam
-  pretend: "http://steamcommunity.com/profiles/"
+  prepend: "http://steamcommunity.com/profiles/"
 dropbox:
   name: Dropbox
   icon: icon-dropbox
@@ -199,11 +199,14 @@ paypal:
   name: PayPal
   icon: icon-paypal
   prepend: "https://www.paypal.me/"
+keybase:
+  name: Keybase
+  icon: icon-key
+  prepend: "https://keybase.io/"
 download:
   name: Download
   icon: icon-box-add
-googlescholar:
+google-scholar:
   name: Google Scholar
   icon: icon-googlescholar
-  prepend: "https://scholar.google.co.uk/citations?hl=en&user="
-  append: "&view_op=list_works&sortby=pubdate"
+  prepend: "https://scholar.google.com/citations?user="
